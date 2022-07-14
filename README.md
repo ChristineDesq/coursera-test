@@ -12,8 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Courser test repository
-## Header 2
-### Header 3
+## Site
+### Solutions
 
 - Bulleted
 - List
